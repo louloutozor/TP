@@ -1,0 +1,9 @@
+.idea
+**/node_modules
+Supprimerait 11-express/package-lock.json
+Supprimerait 7-module-node/package-lock.json
+Supprimerait package-lock.json
+Supprimerait .gitignore
+Supprimerait app/
+Supprimerait public/
+Supprimerait views/
